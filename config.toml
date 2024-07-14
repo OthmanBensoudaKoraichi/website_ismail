@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://ismailbensouda.netlify.app/"
 languageCode = "en-us"
-title = "Forty"
+title = "ismailbensouda"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
