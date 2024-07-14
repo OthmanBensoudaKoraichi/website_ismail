@@ -40,7 +40,7 @@ googleAnalytics = ""
   # Navigation Section
   [params.navigation]
     title = "Ismail Bensouda Koraichi"
-    subtitle = "Plaxcholder"
+    subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -83,7 +83,7 @@ googleAnalytics = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
+    title = "test"
     subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
@@ -93,6 +93,32 @@ googleAnalytics = ""
     enable = true
     # Display your showcases here.
     
+
+    [[params.tiles.showcase]]
+      title = "Newspaper appearance"      
+      subtitle = "Article on GDA's vision"
+      image = "gda.png"
+      url = "https://archive.challenge.ma/ismail-bensouda-fondateur-de-gda-il-est-temps-que-la-data-science-simpose-au-maroc-dans-toutes-les-grandes-entreprises-129970/?fbclid=IwZXh0bgNhZW0CMTEAAR3eK8gZRblMkkcGoyo-BeAwVSbDajTCW7CDMSo2s6mMeDH1HxB843Sv3L4_aem_If0YCM6IVMhENoASlsuxrA"
+
+    [[params.tiles.showcase]]
+      title = "Pitch to the Minister of Energy Transition "
+      subtitle = "Placeholder"
+      image = "210 pitch benali.jpg"
+      url = "https://www.linkedin.com/posts/artefact-global_artefact-data-artefactafrica-ugcPost-7194001734816477185-YONM?utm_source=share&utm_medium=member_desktop"
+
+
+    [[params.tiles.showcase]]
+      title = "Gitex participation"
+      subtitle = "Placeholder"
+      image = "103 ismail speaker.jpg"
+      url = "https://www.linkedin.com/posts/ghita-ammor-38770890_gitex-africa-data-activity-7202347176394375168-OwhV?utm_source=share&utm_medium=member_desktop"
+
+    [[params.tiles.showcase]]
+      title = "Forum : Horizon Maroc"
+      subtitle = "Placeholder"
+      image = "chancla.jpg"
+      url = "https://www.linkedin.com/posts/artefact-global_paris-data-ia-ugcPost-7201244490370555904-Dzuq?utm_source=share&utm_medium=member_desktop"
+
     [[params.tiles.showcase]]
       title = "Gitex Africa conference"
       subtitle = "Placeholder"
@@ -100,33 +126,9 @@ googleAnalytics = ""
       url = "https://www.linkedin.com/posts/ismail-bensouda_gitexafrica-dataai-microsoftpartner-activity-7197172460281024514-pGRp?utm_source=share&utm_medium=member_desktop"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
-
-    [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
-
-    [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
-
-    [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
-
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
+      title = "GenAI Conference"
+      subtitle = "I co-organized one of the biggest GenAI private conferences in Morocco"
+      image = "genai.png"
       url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
