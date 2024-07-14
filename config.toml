@@ -96,7 +96,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Gitex Africa conference"
       subtitle = "Placeholder"
-      image = "gitex.png"
+      image = "gitex2.png"
       url = "https://www.linkedin.com/posts/ismail-bensouda_gitexafrica-dataai-microsoftpartner-activity-7197172460281024514-pGRp?utm_source=share&utm_medium=member_desktop"
 
     [[params.tiles.showcase]]
