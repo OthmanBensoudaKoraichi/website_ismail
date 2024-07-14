@@ -39,8 +39,8 @@ googleAnalytics = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Ismail Bensouda Koraichi"
+    subtitle = "Plaxcholder"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -94,10 +94,10 @@ googleAnalytics = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      title = "Gitex Africa conference"
+      subtitle = "Placeholder"
+      image = "gitex.png"
+      url = "https://www.linkedin.com/posts/ismail-bensouda_gitexafrica-dataai-microsoftpartner-activity-7197172460281024514-pGRp?utm_source=share&utm_medium=member_desktop"
 
     [[params.tiles.showcase]]
       title = "Tempus"
